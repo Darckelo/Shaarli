@@ -1,0 +1,113 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: Shaarli\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-05 08:38+0200\n"
+"PO-Revision-Date: 2023-04-05 08:39+0200\n"
+"Last-Translator: <tu_nombre@example.com>\n"
+"Language-Team: Shaarli\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ../../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: t:1,2;t\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+# Spanish translation for Shaarli
+# Add translations below by replacing the empty msgstr values.
+# Example:
+#
+# msgid "Add link"
+# msgstr "Añadir enlace"
+#
+# After editing, choose Spanish in the Shaarli settings to activate.
+
+# basic interface strings
+
+msgid "Spanish"
+msgstr "Español"
+
+msgid "Automatic"
+msgstr "Automático"
+
+msgid "German"
+msgstr "Alemán"
+
+msgid "English"
+msgstr "Inglés"
+
+msgid "French"
+msgstr "Francés"
+
+msgid "Japanese"
+msgstr "Japonés"
+
+msgid "Russian"
+msgstr "Ruso"
+
+msgid "Chinese (Simplified)"
+msgstr "Chino (simplificado)"
+
+msgid "Add link"
+msgstr "Añadir enlace"
+
+msgid "Add links"
+msgstr "Añadir enlaces"
+
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+msgid "Login"
+msgstr "Iniciar sesión"
+
+msgid "Search text"
+msgstr "Buscar texto"
+
+msgid "Filter by tag"
+msgstr "Filtrar por etiqueta"
+
+msgid "Shaare"
+msgstr "Shaare"
+
+msgid "Tools"
+msgstr "Herramientas"
+
+msgid "Tag cloud"
+msgstr "Nube de etiquetas"
+
+msgid "Picture wall"
+msgstr "Muro de imágenes"
+
+msgid "Daily"
+msgstr "Diario"
+
+msgid "RSS Feed"
+msgstr "Fuente RSS"
+
+msgid "Add tags"
+msgstr "Agregar etiquetas"
+
+msgid "Delete tags"
+msgstr "Eliminar etiquetas"
+
+msgid "Set public"
+msgstr "Hacer público"
+
+msgid "Set private"
+msgstr "Hacer privado"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Add tag"
+msgstr "Agregar etiqueta"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
